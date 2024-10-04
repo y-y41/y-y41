@@ -38,4 +38,5 @@
 ---
 📬 **Contact** 📬
 
-![Static Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@y-y41)
+[![Static Badge](https://img.shields.io/badge/dbsdud41@hanyang.ac.kr-D148367?style=flat-square&logo=gmail&logoColor=white)](mailto:dbsdud41@hanyang.ac.kr)
