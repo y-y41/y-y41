@@ -32,7 +32,7 @@
 ---
 **Stats**
 
-![Yunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-y41&show_icons=true&theme=radical)
+![Yunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-y41&show_icons=true&theme=radical&card_width=400px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-y41&hide_progress=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-y41&layout=donut)](https://github.com/y-y41/github-readme-stats)
 
