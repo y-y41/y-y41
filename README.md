@@ -32,7 +32,8 @@
 ---
 **Stats**
 
-![Yunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Yunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-y41&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-y41&hide_progress=true)
 
 ---
 📬 **Contact** 📬
