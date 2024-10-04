@@ -6,6 +6,7 @@
 ---
 <!-- contents -->
 ✨ **Tech Stack** ✨
+
 ![Static Badge](https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -33,7 +34,7 @@
 
 ![Yunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+---
 📬 **Contact** 📬
 
----
 ![Static Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)
